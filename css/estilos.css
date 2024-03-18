@@ -370,4 +370,9 @@ main{
         margin-top: 12px;
         margin-left: 0;
     }
+    footer {
+        background-color: #f4f4f4;
+        border-top: 1px solid #ddd;
+        padding: 20px 0;
+    }
 }
