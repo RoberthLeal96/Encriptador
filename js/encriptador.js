@@ -76,6 +76,7 @@ function desencriptar(traduccion){
         texto = texto.replace(new RegExp(traduccion["u"], "g"), "u");
         texto_out.innerHTML = texto;
     }
+
     return;
 }
 
