@@ -8,10 +8,22 @@ html{
 
 body{
     height: 100%;
-    background-color: #F3F5FC;
-    font-family: Inter, sans-serif;
+    background-color: #3a436465;
+    /*font-family: Inter, sans-serif;*/
+    font-family: Arial, sans-serif;
     font-weight: 400;
     letter-spacing: 0em;
+}
+
+footer {
+    /*background-color: #f4f4f4;
+    border-top: 1px solid #ddd;*/
+    /*padding: 3px ;*/
+    font-size: 10px;
+    text-align: right;
+    /*text-align: end;*/
+    width: 1250px;
+  
 }
 
 .contenedor {
@@ -369,10 +381,5 @@ main{
     .text_in_btns > input:last-child {
         margin-top: 12px;
         margin-left: 0;
-    }
-    footer {
-        background-color: #f4f4f4;
-        border-top: 1px solid #ddd;
-        padding: 20px 0;
     }
 }
